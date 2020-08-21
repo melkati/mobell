@@ -1,3 +1,6 @@
+This is just a fork to investigate why it doesn't works anymore in my phone and to find out how to better integrate it with my home automation system: 
+https://emariete.com/el-sistema-de-domotica-de-mi-casa-el-controlador-o-cerebro/
+
 # MoBell
 
 Android intercom (client) for mobotix T24/T25 cameras
